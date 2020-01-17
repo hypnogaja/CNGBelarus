@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CNG Belarus</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="sync_title">Синхронизировать email</string>
+    <string name="sync_header">Синхронизация</string>
+    <string name="signature_title">Ваша подпись</string>
+    <string name="result_mileage_calc">Рассчитать</string>
+    <string name="reply_title">Стандарный ответ действие</string>
+    <string name="payback_calculator">Калькулятор окупаемости</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="nav_header_title">Андроид студио</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Меню навигации</string>
+    <string name="mileage_km">км</string>
+    <string name="mileage_calculator">Калькулятор пробега</string>
+    <string name="messages_header">Сообщения</string>
+    <string name="menu_tools">Инструменты</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_send">Отправить</string>
+    <string name="menu_home">Главная</string>
+    <string name="menu_history">История</string>
+    <string name="menu_calc">Калькуляторы</string>
+    <string name="language_title">Выберите язык</string>
+    <string name="l_100km">л/100км</string>
+    <string name="general_header">Общее</string>
+    <string name="fixed_sum_mileage">(Пробег на фиксированную сумму)</string>
+    <string name="fixed_sum_payback">(Если переоборудовать или купить газовый автомобиль)</string>
+    <string name="currency_per_l">Бел. руб/л</string>
+    <string name="currency">Бел. руб</string>
+    <string name="choose_transport">Выберите тип автомобиля:</string>
+    <string name="choose_charge_amount">Введите планируемую сумму для заправки</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="calc_payback_text_result1">1</string>
+    <string name="calc_payback_text_result2">2</string>
+    <string name="calc_payback_text5"><sup>*</sup>1л бензина эквивалентен по расходу 1м<sup>3</sup> природного газа</string>
+    <string name="calc_payback_text4">Линейный расход автомобиля базовой модели:</string>
+    <string name="calc_payback_text3">Предполагаемый пробег автомобиля в год:</string>
+    <string name="calc_payback_text2">Дополнительные затраты на монтаж ГБО или разница в цене с базовой моделью автомобиля:</string>
+    <string name="calc_payback_text1">Цена топлива, используемого базовой моделью автомобиля:</string>
+    <string name="attachment_title">Скачать входящие вложения</string>
+    <string name="attachment_summary_on">Автоматически загружать вложения для входящих писем</string>
+    <string name="attachment_summary_off">Загружать вложения можно только по запросу вручную</string>
+</resources>

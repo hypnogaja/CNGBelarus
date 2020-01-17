@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">CNG Belarus</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_calc">Calculators</string>
+    <string name="menu_history">History</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <!-- / Menu -->
+
+    <!-- Variables and values -->
+    <string name="currency">PLN</string>
+    <string name="mileage_km">km</string>
+    <string name="currency_per_l">PLN/L</string>
+    <string name="l_100km">L/100km</string>
+    <!-- / Variables and values -->
+
+    <!-- FragmentMileageCalc -->
+    <string name="choose_transport">Choose car type:</string>
+    <string name="choose_charge_amount">Enter the planned amount of fuel:</string>
+    <string name="mileage_calculator">Mileage Calculator</string>
+    <string name="fixed_sum_mileage">(fixed sum mileage)</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_mileage_calc">Result</string>
+    <!-- / FragmentMileageCalc -->
+    <!-- FragmentPaybackCalc -->
+    <string name="payback_calculator">Payback Calculator</string>
+    <string name="fixed_sum_payback">(car refitting or new CNG car)</string>
+    <string name="calc_payback_text1">Fuel price, used by the base car model:</string>
+    <string name="calc_payback_text2">Additional costs for the installation of CNG equipment or a difference in price with the base model:</string>
+    <string name="calc_payback_text3">Assumed mileage per year:</string>
+    <string name="calc_payback_text4">Base model car fuel consumption:</string>
+    <string name="calc_payback_text5"><sup>*</sup>1L of gasoline is equivalent to a consumption of 1m<sup>3</sup> of natural gas</string>
+    <string name="calc_payback_text_result1">1</string>
+    <string name="calc_payback_text_result2">2</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="general_header">General</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- General Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="language_title">Choose language</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">"Automatically download attachments for incoming emails     "</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- / FragmentPaybackCalc -->
+</resources>
