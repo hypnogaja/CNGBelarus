@@ -53,7 +53,6 @@ public class SettingsActivity extends AppCompatActivity implements
                         }
                     };
             sharedPref.registerOnSharedPreferenceChangeListener(listener);
-
       //  } else {
 //            setTitle(savedInstanceState.getCharSequence(TITLE_TAG));
     //    }

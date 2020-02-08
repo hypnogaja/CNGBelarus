@@ -1,4 +1,4 @@
-package com.ngapp.cngbelarus.ui.calc;
+package com.ngapp.cngbelarus.ui.history;
 
 import android.content.Context;
 
@@ -22,14 +22,15 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         switch (position) {
             case 0:
-                MileageCalcFragment fragment1 = new MileageCalcFragment();
+                PhotoHistoryFragment fragment1 = new PhotoHistoryFragment();
                 return fragment1;
 
             case 1:
-                PaybackCalcFragment fragment2 = new PaybackCalcFragment();
+                VideoHistoryFragment fragment2 = new VideoHistoryFragment();
                 return fragment2;
+
             default:
-                MileageCalcFragment fragment3 = new MileageCalcFragment();
+                PhotoHistoryFragment fragment3 = new PhotoHistoryFragment();
                 return fragment3;
         }
     }
@@ -41,9 +42,9 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public CharSequence getPageTitle(int position) {
-        final String mileageCalc = mContext.getResources().getString(R.string.mileage_calculator);
-        final String paybackCalc = mContext.getResources().getString(R.string.payback_calculator);
-        final String[] tabTitles = {mileageCalc, paybackCalc};
+        final String photoHistory = mContext.getResources().getString(R.string.photo_history);
+        final String videoHistory = mContext.getResources().getString(R.string.video_history);
+        final String[] tabTitles = {photoHistory, videoHistory};
         return tabTitles[position];
     }
 }

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CNG Belarus</string>
     <string name="action_settings">Настройки</string>
     <string name="title_activity_settings">Настройки</string>
     <string name="sync_title">Синхронизировать email</string>
@@ -43,4 +42,17 @@
     <string name="attachment_title">Скачать входящие вложения</string>
     <string name="attachment_summary_on">Автоматически загружать вложения для входящих писем</string>
     <string name="attachment_summary_off">Загружать вложения можно только по запросу вручную</string>
+    <string name="fragment_text">Это фрагмент</string>
+    <string name="video_history">Видеоархив</string>
+    <string name="action_sign_in">Войдите либо зарегистрируйтесь</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="invalid_password">Пароль должен быть более 5 символов</string>
+    <string name="invalid_username">Неверное имя пользователя</string>
+    <string name="login_failed">Ошибка входа</string>
+    <string name="photo_history">Фотогалерея</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="title_activity_login">Логин</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="welcome">Добро пожаловать!</string>
 </resources>
